@@ -1,0 +1,16 @@
+Mon projet en JavaScript : API REST, Express, MongoDB,
+
+Etape 1: installation du nécessaire
+npm init
+npm i express
+npm i express MongoDB
+
+Etape 2 : creation du serveur voir (serveur.js)
+
+Architecture MVC: 
+
+model : contient tous les fichiers qi=ui definissent les données
+controller : tous les fichiers qui definissent la logique de l'application
+vue : l'interface utilisateur 
+routes: contient toutes les routes 
+bd : les fichiers qui definissent la communication avec la base de données (fichier connect.js)
